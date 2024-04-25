@@ -1,0 +1,186 @@
+{
+    "basics": {
+      "name": "Cade C. Cofer",
+      "label": "Writer, editor, tester",
+      "picture": "",
+      "email": "cadeccofer@gmail.com",
+      "phone": "(412) 482-7288",
+      "url": "https://galaxygrotesque.github.io/",
+      "summary": "Writer of over 15 years with 4+ years of technical writing experience. Demonstrates excellent writing and organisational skills that resulted in supplementary role as documentation manager. Known for savvy sleuthing, granular detail, and a discerning eye for pattern recognition. Strong background in warehouse, inventory, and supply chain management systems.",
+      "location": {
+        "city": "Grand Rapids",
+        "countryCode": "USA",
+        "region": "Michigan"
+      },
+      "profiles": [{
+        "network": "LinkedIn",
+        "username": "cadeccofer",
+        "url": "https://www.linkedin.com/in/cadeccofer/"
+      },
+      {
+        "network": "GitHub",
+        "username": "galaxygrotesque",
+        "url": "https://github.com/galaxygrotesque"
+      }]
+    },
+    "work": [{
+      "company": "Position eliminated",
+      "position": "Career break",
+      "url": "",
+      "startDate": "2023-01-01",
+      "endDate": "2023-08-31",
+      "summary": "After being laid off due to organisational changes, I took some time off to visit family, work on some personal projects, and reassess my professional goals. During this period, I enrolled in a UX/UI design course online, published one of my pet project CSS repos on GitHub, and began designing my technical writing portfolio."
+      },
+      {
+      "company": "Radley, LLC",
+      "position": "Quality Assurance Analyst",
+      "website": "https://www.radley.com/",
+      "startDate": "2016-02-16",
+      "endDate": "2022-12-31",
+      "highlights": [
+        "Coordinated with subject matter experts to develop user guides, training materials, flow charts, templates, and other documents for both internal and external use",
+        "Designed new documentation standards and styles to deliver a consistently positive impression to customer base",
+        "Uplifted 75% of existing customer-facing documentation, including statements of work, welcome packets, user manuals, and sales quotes",
+        "Managed 50+ procedures, work instructions, and reference materials in an agile environment using Microsoft SharePoint"
+      ]},
+    {
+      "company": "Radley, LLC",
+      "position": "Technical Support Analyst",
+      "website": "https://www.radley.com/",
+      "startDate": "2015-01-19",
+      "endDate": "2016-02-16",
+      "highlights": [
+        "Promoted to a QA role within 12 months for exceptional performance",
+        "Diagnosed technical issues for a diverse user base of over 100 companies nationwide",
+        "Reproduced reported bugs in customer test environments as part of the triage process",
+        "Analysed logs, SQL queries, SOAP messages, and other XML files to determine root cause"
+      ]}
+    ],
+    "education": [{
+      "institution": "Juniata College",
+      "website": "https://www.juniata.edu/",
+      "area": "Information Technology",
+      "studyType": "Bachelor of Science",
+      "startDate": "2008-09-20",
+      "endDate": "2012-12-13"
+    }],
+    "skills": [{
+      "name": "Problem-solving",
+      "level": "Master",
+      "keywords": [
+        "Brainstorming",
+        "Root cause analysis"
+      ]
+    },
+    {
+      "name": "Writing",
+      "level": "Master",
+      "keywords": [
+        "Adobe Creative Cloud",
+        "Creative writing",
+        "Document styling",
+        "Grammar",
+        "Formatting",
+        "iA Writer",
+        "Microsoft Visio",
+        "Microsoft Word",
+        "Proofreading",
+        "Technical writing",
+        "Typography"
+      ]
+    },
+    {
+      "name": "Quality assurance",
+      "level": "Master",
+      "keywords": [
+        "Android OS",
+        "Bug tracking",
+        "Emulators",
+        "ERP systems",
+        "iOS/iPadOS",
+        "Manual testing",
+        "SQL",
+        "Unix",
+        "Windows OS"
+      ]
+    }],
+    "languages": [{
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Elementary proficiency"
+    },
+    {
+      "language": "CSS",
+      "fluency": "Professional working proficiency"
+    },
+    {
+      "language": "HTML",
+      "fluency": "Limited working proficiency"
+    },
+    {
+      "language": "Markdown",
+      "fluency": "Full professional proficiency"
+    },
+    {
+      "language": "Python",
+      "fluency": "Novice"
+    },
+    {
+      "language": "Ruby",
+      "fluency": "Novice"
+    },
+    {
+      "language": "SQL",
+      "fluency": "Professional working proficiency"
+    },
+    {
+      "language": "XML",
+      "fluency": "Professional working proficiency"
+    }
+  ],
+    "interests": [{
+      "name": "Astronomy",
+      "keywords": [
+        "JWST",
+        "NASA",
+        "Stargazing"
+      ]
+    },
+    {
+      "name": "Nature",
+      "keywords": [
+        "Bird watching",
+        "Hiking",
+        "Lizards"
+      ]
+    },
+    {
+      "name": "Reading",
+      "keywords": [
+        "Fantasy",
+        "Historical fiction",
+        "Science fiction"
+      ]
+    },
+    {
+      "name": "Web & UI design",
+      "keywords": [
+        "CSS",
+        "Figma",
+        "Firefox",
+        "GitHub",
+        "HTML",
+        "Python",
+        "Ruby",
+        "Typography"
+      ]
+    }
+  ],
+    "references": [{
+      "name": "Michelle L. at Radley, LLC",
+      "reference": "In their QA role, Cade demonstrated not only their knowledge and expertise, but also their outstanding communication and organizational skills. In addition, Cade continued to improve processes, learn new skills, and mentor/train other employees. Cade exceeded all expectations, is a creative problem solver, and I often received positive feedback from customers and colleagues on their performance."
+    }]
+}
