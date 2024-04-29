@@ -5,7 +5,7 @@
       "picture": "",
       "email": "cadeccofer@gmail.com",
       "phone": "(412) 482-7288",
-      "url": "https://galaxygrotesque.github.io/",
+      "url": "https://www.cadeccofer.com/",
       "summary": "Writer of over 15 years with 4+ years of technical writing experience. Demonstrates excellent writing and organisational skills that resulted in supplementary role as documentation manager. Known for savvy sleuthing, granular detail, and a discerning eye for pattern recognition. Strong background in warehouse, inventory, and supply chain management systems.",
       "location": {
         "city": "Grand Rapids",
@@ -38,10 +38,13 @@
       "startDate": "2016-02-16",
       "endDate": "2022-12-31",
       "highlights": [
-        "Coordinated with subject matter experts to develop user guides, training materials, flow charts, templates, and other documents for both internal and external use",
+        "Prepared and executed manual test cases for mobile, desktop, and Web applications across 35+ custom implementations in an agile environment",
+        "Coordinated with subject matter experts to develop user guides, training materials, flow charts, templates, and other documents for internal and external use",
+        "Reported functional and cosmetic defects in 50+ software projects using an in-house bug tracking system",
+        "Identified discrepancies between client builds and functional specifications, ensuring customer workflow accuracy and improving rate of successful go-lives",
         "Designed new documentation standards and styles to deliver a consistently positive impression to customer base",
         "Uplifted 75% of existing customer-facing documentation, including statements of work, welcome packets, user manuals, and sales quotes",
-        "Managed 50+ procedures, work instructions, and reference materials in an agile environment using Microsoft SharePoint"
+        "Jury-rigged SQL queries for data verification, creation, and retrieval in Oracle and other RDBMS"
       ]},
     {
       "company": "Radley, LLC",
