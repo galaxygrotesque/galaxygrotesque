@@ -53,7 +53,7 @@
       "startDate": "2015-01-19",
       "endDate": "2016-02-16",
       "highlights": [
-        "Promoted to a QA role within 12 months for exceptional performance",
+        "Promoted to quality assurance role within 12 months for outstanding performance",
         "Diagnosed technical issues for a diverse user base of over 100 companies nationwide",
         "Reproduced reported bugs in customer test environments as part of the triage process",
         "Analysed logs, SQL queries, SOAP messages, and other XML files to determine root cause"
@@ -122,6 +122,10 @@
     {
       "language": "HTML",
       "fluency": "Limited working proficiency"
+    },
+    {
+      "language": "JavaScript",
+      "fluency": "Novice"
     },
     {
       "language": "Markdown",
